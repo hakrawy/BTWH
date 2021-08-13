@@ -1,0 +1,5 @@
+const iklan1 = () => {
+	return`[ SUBSCRIBE CHANEL OWNER YA BLOG : https://www.youtube.com/channel/UCPqrhijRcJBlKIVsSzzjhNQ]`
+}
+
+exports.iklan1 = iklan1

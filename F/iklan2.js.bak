@@ -1,0 +1,5 @@
+const iklan2 = () => {
+	return`[ BAGI CEWEK YA BUAT OWNERNYA KALO AD CHAT : wa.me/628811929177]`
+}
+
+exports.iklan2 = iklan2

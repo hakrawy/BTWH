@@ -1,0 +1,5 @@
+const iklan3 = () => {
+	return`[ BAGI DUIT GAK, CEPET TF KE DANA : 08811929177]`
+}
+
+exports.iklan3 = iklan3
